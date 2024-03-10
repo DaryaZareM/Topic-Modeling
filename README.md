@@ -63,7 +63,6 @@ Special thanks to the developers and contributors of the implemented models and 
 
 For any inquiries or feedback, please contact the project maintainer:
 
-- Name: [Darya Zare]
-- Email: [daryaz2079@gmail.com]
+Darya Zare
+Email: daryaz2079@gmail.com
 
-We welcome contributions and suggestions to improve this project!
