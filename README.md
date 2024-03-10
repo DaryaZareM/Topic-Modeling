@@ -59,9 +59,9 @@ The code relies on the following dependencies:
 
 In this project, the following articles and resources were utilized:
 
-- [Re-visiting Automated Topic Model Evaluation with Large Language Models]([insert-link-here](https://arxiv.org/abs/2305.12152)): This article provided insights into automated topic model evaluation techniques using large language models.
-- [stm: An R Package for Structural Topic Models]([insert-link-here](https://www.jstatsoft.org/article/view/v091i02)): This resource was instrumental in implementing Structural Topic Models (STM) for topic modeling.
-- [Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence]([insert-link-here](https://aclanthology.org/2021.acl-short.96/)): This article contributed to the understanding and implementation of pre-training techniques with contextualized document embeddings to improve topic coherence.
+- [Re-visiting Automated Topic Model Evaluation with Large Language Models](https://arxiv.org/abs/2305.12152): This article provided insights into automated topic model evaluation techniques using large language models.
+- [Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence](https://aclanthology.org/2021.acl-short.96/): This article contributed to the understanding and implementation of pre-training techniques with contextualized document embeddings to improve topic coherence.
+- [stm: An R Package for Structural Topic Models](https://www.jstatsoft.org/article/view/v091i02): This resource was instrumental in implementing Structural Topic Models (STM) for topic modeling.
 
 These references served as valuable sources of information and guidance throughout the project.
 
